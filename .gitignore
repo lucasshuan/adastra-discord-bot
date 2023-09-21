@@ -1,1 +1,6 @@
+# Ignorar arquivo de variáveis de ambiente que possui informações sensíveis
 .env
+
+# Pastas para ignorar
+[Bb]in/
+[Oo]bj/
